@@ -1,0 +1,282 @@
+/* Type */
+
+body {
+    padding: 2em;
+    margin: 5em;
+    background-color: #ecffeb;
+    color: grey;
+    font-family: sans-serif;
+    line-height: 1;
+    font-size: 0.85em;
+    border-left: 17em solid #E91E63;
+    border-right: 48em solid #00BCD4;
+    width: 490pt;
+    height:900pt;
+}
+
+.new-1 {
+    color: #00fff5;
+    font-size: 15em;
+    font-family: 'Notable', sans-serif;
+    position: absolute;
+    top: 0em;
+    left: 0.3em;
+    transform: skewX(-45deg)
+}
+.new-2 {
+    color: #37658e;
+    font-size: 25em;
+    position: absolute;
+    bottom: 0em;
+    right: 0.2em;
+    font-family: 'Turret Road', cursive;
+}
+.new-3 {
+    color: #37658e;
+    font-size: 25em;
+    position: absolute;
+    bottom: 0.4em;
+    right: 0.2em;
+    font-family: 'Turret Road', cursive;
+}
+.new-4 {
+    color: #37658e;
+    font-size: 25em;
+    position: absolute;
+    bottom: 0.4em;
+    right: 2em;
+    font-family: 'Turret Road', cursive;
+}
+.new-5 {
+    color: #37658e;
+    font-size: 25em;
+    position: absolute;
+    bottom: 0em;
+    right: 2em;
+    font-family: 'Turret Road', cursive;
+}
+.new-6 {
+    color: #37658e;
+    font-size: 25em;
+    position: absolute;
+    bottom: 0em;
+    right: 1.7em;
+    font-family: 'Turret Road', cursive;
+}
+.new-7 {
+    color: #37658e;
+    font-size: 25em;
+    position: absolute;
+    bottom: 0.4em;
+    right: 1.7em;
+    font-family: 'Turret Road', cursive;
+    }
+.new-8 {
+    color: #37658e;
+    font-size: 25em;
+    position: absolute;
+    bottom: 0.4em;
+    right: 1.4em;
+    font-family: 'Turret Road', cursive;
+}
+.new-9 {
+    color: #37658e;
+    font-size: 25em;
+    position: absolute;
+    bottom: 0em;
+    right: 1.4em;
+    font-family: 'Turret Road', cursive;
+}
+.new-10 {
+    color: #37658e;
+    font-size: 25em;
+    position: absolute;
+    bottom: 0.4em;
+    right: 1.1em;
+    font-family: 'Turret Road', cursive;
+}
+.new-11 {
+    color: #37658e;
+    font-size: 25em;
+    position: absolute;
+    bottom: 0em;
+    right: 1.1em;
+    font-family: 'Turret Road', cursive;
+}
+.new-12 {
+    color: #37658e;
+    font-size: 25em;
+    position: absolute;
+    bottom: 0.4em;
+    right: 0.8em;
+    font-family: 'Turret Road', cursive;
+}
+.new-13 {
+    color: #37658e;
+    font-size: 25em;
+    position: absolute;
+    bottom: 0em;
+    right: 0.8em;
+    font-family: 'Turret Road', cursive;
+}
+.new-14 {
+    color: #37658e;
+    font-size: 25em;
+    position: absolute;
+    bottom: 0em;
+    right: 0.5em;
+    font-family: 'Turret Road', cursive;
+}
+.new-15 {
+    color: #37658e;
+    font-size: 25em;
+    position: absolute;
+    bottom: 0.4em;
+    right: 0.5em;
+    font-family: 'Turret Road', cursive;
+}
+.new-17{
+    font-size: 4.5em;
+    color:#248659;
+    font-family: 'Notable', sans-serif;
+    position:absolute;
+    left: 10.3em;
+    top:8em;
+    transform: rotate(-55deg)
+}
+.new-18{
+    font-size: 4.5em;
+    color: #248659;
+    font-family: 'Notable', sans-serif;
+    position: absolute;
+    left: 11.1em;
+    top: 7.0em;
+    transform: rotate(-30deg);
+}
+.new-19{
+    font-size: 4.5em;
+    color:#248659;
+    font-family: 'Notable', sans-serif;
+    position:absolute;
+    left: 12.3em;
+    top: 6.5em;
+}
+.new-20{
+    font-size: 4.5em;
+    color:#248659;
+    font-family: 'Notable', sans-serif;
+    position:absolute;
+    left: 13.5em;
+    top: 7.0em;
+    transform: rotate(30deg)
+}
+.new-21{
+    font-size: 4.5em;
+    color:#248659;
+    font-family: 'Notable', sans-serif;
+    position:absolute;
+    left: 14.3em;
+    top: 8em;
+    transform: rotate(55deg)
+}
+.new-22{
+    font-size: 4.5em;
+    color:#248659;
+    font-family: 'Notable', sans-serif;
+    position:absolute;
+    left: 14.3em;
+    top: 9.5em;
+    transform: rotate(100deg)
+}
+.new-23{
+    font-size: 4.5em;
+    color:#248659;
+    font-family: 'Notable', sans-serif;
+    position:absolute;
+    left: 10.3em;
+    top: 9.5em;
+    transform: rotate(-100deg)
+}
+.style-1{
+    font-size: 4em;
+    font-weight: 800;
+    font-family: 'Turret Road', cursive;
+    filter: drop-shadow(5px 3px 15px yellow);
+}
+.style-2{
+    font-size: 2em;
+    font-family: 'Mansalva', cursive;
+    width: 440pt;
+    position: absolute;
+    top: 10.5em;
+    left: 15.4em;
+}
+.style-3{
+    font-size: 2em;
+    font-family: 'Mansalva', cursive;
+    width: 200pt;
+    text-align: left;
+    transform: rotate(180deg);
+}
+.style-4{
+    font-size: 2.0em;
+    color: orange;
+    font-family: 'Grenze', serif;
+    font-weight: 300;
+}
+.index-1{
+    font-size: 10em;
+    font-family: 'Mansalva', cursive;
+}
+.new-16{
+    font-size: 8em;
+    opacity: 0.4;
+    position: absolute;
+    top: 7em;
+    left: 3em;
+    transform: skewY(15deg);
+}
+.new-24{
+    font-size: 8em;
+    color: purple;
+    position: absolute;
+    top: 9em;
+    left: 3.3em;
+    filter: blur(5px);
+    transform: skewX(-50deg);
+}
+.new-25{
+    font-size: 8em;
+    color: purple;
+    position: absolute;
+    top: 9.5em;
+    left: 3.3em;
+    filter: blur(4px);
+    transform: skewX(-45deg);
+}
+.new-26{
+    font-size: 8em;
+    color: purple;
+    position: absolute;
+    top: 9.9em;
+    left: 3.3em;
+    filter: blur(3px);
+    transform: skewX(-30deg);
+}
+.new-27{
+    font-size: 8em;
+    color: purple;
+    position: absolute;
+    top: 10.3em;
+    left: 3.3em;
+    filter: blur(2px);
+    transform: skewX(-15deg);
+}
+.new-28{
+    font-size: 8em;
+    color: purple;
+    position: absolute;
+    top: 10.5em;
+    left: 3.3em;
+    filter: blur(1px);
+}
